@@ -1,0 +1,21 @@
+.movie-card {
+    width:70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imageresize{
+  height: auto;
+  max-height: 300px;
+  width: auto;
+  max-width: 250px;
+}
+.cardclass{
+  width: 50%;
+  text-align: center;
+}
+
+.paragraph{
+  margin:0;
+}
+

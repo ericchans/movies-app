@@ -1,0 +1,12 @@
+.grid_layout{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+}
+
+.page_layout{
+display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
